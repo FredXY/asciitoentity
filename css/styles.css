@@ -1,0 +1,35 @@
+.ascii {
+    display: inline-block;
+    background-image: url('img/code.svg');
+    background-size: 100%;
+    opacity: 0.70;
+}
+.ascii:hover {
+    opacity: 1;
+}
+.unicode-lookup {
+    font: 1.19em corbel, verdana, 'geneva ce', lucida, sans-serif;
+    color: #444;
+    line-height: 1.9em;
+    text-align: center;
+}
+label {
+    font: .8em Consolas, 'Lucida Console', 'Monaco CE', fixed, monospace;
+    line-height: 1.9em;
+}
+strong {
+    color: #066;
+}
+.c, .h, .u {
+    width: 10px;
+    margin-left: 20px;
+}
+.h, .u {
+    width: 45px;
+}
+.form-horizontal table {
+    margin: 0 auto;
+}
+.form-horizontal th {
+    text-align: right;
+}

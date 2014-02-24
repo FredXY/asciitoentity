@@ -1,0 +1,12 @@
+{
+    "name": "asciitoentity",
+    "title": "ASCII to Entity",
+    "description": "ASCII to Unicode and HTML Entity modal dialog",
+    "homepage": "https://github.com/FredXY/asciitoentity",
+    "version": "1.0.0",
+    "author": "Mirek Komárek (https://github/FredXY)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.28.0"
+    }
+}
