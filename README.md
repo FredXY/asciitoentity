@@ -1,4 +1,4 @@
-# HTML Skeleton #
+# ASCII To Entity #
 
 A [Brackets](http://brackets.io) extension to convert ASCII to Unicode and HTML Entity.
 
